@@ -1,5 +1,5 @@
 {
-    "name": "guoxuivy-topthink/think-mongo",
+    "name": "topthink-guoxuivy/think-mongo",
     "description": "mongodb driver for thinkphp5",
     "license": "Apache-2.0",
     "authors": [
